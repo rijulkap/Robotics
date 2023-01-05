@@ -1,3 +1,3 @@
 # Robotics_Learning
 
-A repo consisting of a few small scale robotics based projects primarily meant to serve as a personal resource for complicated topics
+This repository is to document my personal Robotics - learning process and includes clear documention to allow for a quick recap whenever required
